@@ -115,7 +115,7 @@ function ColumnContainer(props: Props) {
         
         {/*Column Footer*/}
         <div>Footer</div>
-    </div>
+     </div>
       );
 }
 
