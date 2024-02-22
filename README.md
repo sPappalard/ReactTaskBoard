@@ -2,5 +2,5 @@
 <p align="center">
 	
   <img src="">
-  <img src= "" alt=GIF">
+  <img src= "Kanban-board-video.gif" alt=GIF">
 </p>
